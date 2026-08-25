@@ -5,7 +5,7 @@
 ## 서비스 링크
 
 - 배포 URL: **Vercel 배포 후 실제 주소 입력 예정**
-- GitHub 저장소: [https://github.com/yak7297/dadeumi-ai](https://github.com/yak7297/dadeumi-ai)
+- GitHub 저장소: [https://github.com/yak7297/p2-3](https://github.com/yak7297/p2-3)
 
 ## 핵심 기능
 
