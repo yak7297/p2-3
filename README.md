@@ -5,7 +5,7 @@
 ## 서비스 링크
 
 - 배포 URL: **Vercel 배포 후 실제 주소 입력 예정**
-- GitHub 저장소: **GitHub 업로드 후 실제 주소 입력 예정**
+- GitHub 저장소: [https://github.com/yak7297/dadeumi-ai](https://github.com/yak7297/dadeumi-ai)
 
 ## 핵심 기능
 
@@ -136,4 +136,3 @@ bash run_local.sh
 - API 키를 코드, README, 스크린샷, GitHub 커밋에 절대 포함하지 않습니다.
 - 키 노출이 의심되면 Google AI Studio에서 즉시 폐기하고 새 키를 발급합니다.
 - AI API는 사용량에 따라 과금 또는 쿼터 제한이 발생할 수 있습니다.
-
