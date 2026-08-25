@@ -1,2 +1,11 @@
+[project]
+name = "p2-3"
+version = "0.1.0"
+description = "Gemini-based Korean message rewriting service"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "google-genai>=1.0.0,<2.0.0",
+]
+
 [tool.vercel]
 entrypoint = "api.rewrite:handler"
