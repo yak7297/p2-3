@@ -57,6 +57,7 @@
 │   ├── evidence-checklist.md
 │   └── screenshots/        # 제출용 화면 증빙
 ├── requirements.txt        # Python 패키지
+├── vercel.json             # 정적 화면과 Python API 배포 설정
 ├── .env.example            # 환경 변수 예시
 ├── dev.py                  # 로컬 통합 실행 도우미
 └── run_local.sh            # VS Code 실행 스크립트
