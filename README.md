@@ -131,9 +131,3 @@ bash run_local.sh
 - [서비스 기획서](docs/service-plan.md)
 - [AI 코딩 도구 사용 과정](docs/ai-coding-log.md)
 - [증빙 자료 체크리스트](docs/evidence-checklist.md)
-
-## 보안 주의사항
-
-- API 키를 코드, README, 스크린샷, GitHub 커밋에 절대 포함하지 않습니다.
-- 키 노출이 의심되면 Google AI Studio에서 즉시 폐기하고 새 키를 발급합니다.
-- AI API는 사용량에 따라 과금 또는 쿼터 제한이 발생할 수 있습니다.
