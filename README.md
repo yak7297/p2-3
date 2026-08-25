@@ -4,7 +4,7 @@
 
 ## 서비스 링크
 
-- 배포 URL: **Vercel 배포 후 실제 주소 입력 예정**
+- 배포 URL: [https://p2-3-beige.vercel.app/](https://p2-3-beige.vercel.app/)
 - GitHub 저장소: [https://github.com/yak7297/p2-3](https://github.com/yak7297/p2-3)
 
 ## 핵심 기능
@@ -114,7 +114,7 @@ bash run_local.sh
 3. Vercel 프로젝트의 **Settings → Environment Variables**에 `GEMINI_API_KEY`를 등록합니다.
 4. 필요하면 `GEMINI_MODEL`도 등록합니다.
 5. 배포한 뒤 홈, 메뉴 이동, 모바일 화면, AI 결과 생성을 확인합니다.
-6. 발급된 Vercel 주소를 이 README의 **서비스 링크**에 입력하고 다시 푸시합니다.
+6. 발급된 Vercel 주소가 README의 **서비스 링크**와 일치하는지 확인합니다.
 
 환경 변수를 추가하거나 코드를 수정한 경우 Vercel에서 재배포해야 변경 사항이 적용됩니다.
 

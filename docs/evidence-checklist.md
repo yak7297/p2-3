@@ -12,13 +12,13 @@
 
 ## 배포 후 마지막 확인
 
-- [ ] Vercel 배포 URL에서 네 개 메뉴가 각 섹션으로 이동한다.
-- [ ] Vercel 배포 URL에서 AI 결과가 생성된다.
-- [ ] 모바일 브라우저에서 가로 스크롤이나 겹침이 없다.
-- [ ] README의 Vercel URL을 실제 주소로 교체한다.
-- [ ] README의 GitHub 저장소 URL을 실제 주소로 교체한다.
-- [ ] 필요하면 동일한 구도로 배포 URL 화면을 다시 캡처한다.
-- [ ] GitHub 저장소에 실제 API 키나 `.env.local`이 없는지 확인한다.
+- [x] Vercel 배포 URL에서 네 개 메뉴가 각 섹션으로 이동한다.
+- [x] Vercel 배포 URL에서 AI 결과가 생성된다.
+- [x] 모바일 브라우저에서 가로 스크롤이나 겹침이 없다.
+- [x] README의 Vercel URL을 실제 주소로 교체한다.
+- [x] README의 GitHub 저장소 URL을 실제 주소로 교체한다.
+- [x] 제출용 데스크톱·모바일·AI 결과 화면을 캡처했다.
+- [x] GitHub 저장소에 실제 API 키나 `.env.local`이 없는지 확인했다.
 
 ## 제출 패키지 구성
 
@@ -28,4 +28,3 @@
 4. `docs/service-plan.md`
 5. `docs/screenshots/`의 화면 증빙 3장
 6. `docs/ai-coding-log.md`
-
