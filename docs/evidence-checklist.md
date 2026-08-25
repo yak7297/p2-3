@@ -7,7 +7,7 @@
 | 데스크톱 화면 | `docs/screenshots/desktop-home.png` | 1440×900 홈 화면, 메뉴와 서비스 소개 |
 | 모바일 화면 | `docs/screenshots/mobile-home.png` | 390×844 반응형 홈 화면 |
 | AI 기능 동작 | `docs/screenshots/ai-result.png` | 입력, 상황·말투 선택, Gemini 생성 결과 |
-| AI 코딩 도구 사용 과정 | `docs/ai-coding-log.md` | 실제 요청과 구현·오류 해결 과정 요약 |
+| AI 코딩 도구 사용 과정 | `docs/screenshots/ai-coding-process.png`, `docs/ai-coding-log.md` | 실제 대화 화면과 구현·오류 해결 과정 요약 |
 | 서비스 기획서 | `docs/service-plan.md` | 목적, 타겟, 섹션, 핵심 기능, AI 실패 처리 |
 
 ## 배포 후 마지막 확인
@@ -27,4 +27,4 @@
 3. `README.md`
 4. `docs/service-plan.md`
 5. `docs/screenshots/`의 화면 증빙 3장
-6. `docs/ai-coding-log.md`
+6. `docs/screenshots/ai-coding-process.png`와 `docs/ai-coding-log.md`

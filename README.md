@@ -32,6 +32,10 @@
 
 ![다듬이 AI 입력 및 결과](docs/screenshots/ai-result.png)
 
+### AI 코딩 도구 사용 과정
+
+![AI 코딩 도구를 활용해 API 연동 방향을 결정한 과정](docs/screenshots/ai-coding-process.png)
+
 ## 기술 스택
 
 | 구분 | 사용 기술 | 역할 |
@@ -55,7 +59,7 @@
 │   ├── service-plan.md     # 서비스 기획서
 │   ├── ai-coding-log.md    # AI 코딩 도구 사용 과정
 │   ├── evidence-checklist.md
-│   └── screenshots/        # 제출용 화면 증빙
+│   └── screenshots/        # 서비스 및 AI 코딩 과정 화면 증빙
 ├── requirements.txt        # Python 패키지
 ├── vercel.json             # 정적 화면과 Python API 배포 설정
 ├── .env.example            # 환경 변수 예시
